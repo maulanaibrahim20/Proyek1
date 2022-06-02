@@ -114,4 +114,5 @@ class AdminController extends Controller
 
         return redirect()->back()->with('message','Doctor Details Update Succesfully');
     }
+    
 }
