@@ -6,22 +6,22 @@
                     <div class="card-blog">
                         <div class="header">
                             <div class="post-category">
-                                <a href="#">Covid19</a>
+                                <a href="https://www.cnbcindonesia.com/news/20220517171322-4-339601/jokowi-izinkan-warga-lepas-masker-ini-penjelasan-lengkapnya">Covid19</a>
                             </div>
-                            <a href="blog-details.html" class="post-thumb">
-                                <img src="../assets/img/blog/blog_1.jpg" alt="">
+                            <a href="https://www.cnbcindonesia.com/news/20220517171322-4-339601/jokowi-izinkan-warga-lepas-masker-ini-penjelasan-lengkapnya" class="post-thumb">
+                                <img src="../assets/img/blog/jokowi.jpg" alt="">
                             </a>
                         </div>
                         <div class="body">
-                            <h5 class="post-title"><a href="blog-details.html">List of Countries without Coronavirus case</a></h5>
+                            <h5 class="post-title"><a href="https://www.cnbcindonesia.com/news/20220517171322-4-339601/jokowi-izinkan-warga-lepas-masker-ini-penjelasan-lengkapnya" target="_blank">Jokowi Menghapus Peraturan Penggunaan Masker Diluar Ruangan</a></h5>
                             <div class="site-info">
                                 <div class="avatar mr-2">
                                     <div class="avatar-img">
-                                        <img src="../assets/img/person/person_1.jpg" alt="">
+                                        <img src="../assets/img/person/admin.jpg" alt="">
                                     </div>
-                                    <span>Roger Adams</span>
+                                    <span>Admin</span>
                                 </div>
-                                <span class="mai-time"></span> 1 week ago
+                                <span class="mai-time"></span> 2 mingu yang lalu
                             </div>
                         </div>
                     </div>
@@ -41,9 +41,9 @@
                             <div class="site-info">
                                 <div class="avatar mr-2">
                                     <div class="avatar-img">
-                                        <img src="../assets/img/person/person_1.jpg" alt="">
+                                        <img src="../assets/img/person/admin.jpg" alt="">
                                     </div>
-                                    <span>Roger Adams</span>
+                                    <span>Admin</span>
                                 </div>
                                 <span class="mai-time"></span> 4 weeks ago
                             </div>
@@ -65,9 +65,9 @@
                             <div class="site-info">
                                 <div class="avatar mr-2">
                                     <div class="avatar-img">
-                                        <img src="../assets/img/person/person_2.jpg" alt="">
+                                        <img src="../assets/img/person/admin.jpg" alt="">
                                     </div>
-                                    <span>Diego Simmons</span>
+                                    <span>Admin</span>
                                 </div>
                                 <span class="mai-time"></span> 2 months ago
                             </div>

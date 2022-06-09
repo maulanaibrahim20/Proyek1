@@ -93,5 +93,12 @@
                         <span class="menu-title">data Pengunjung</span>
                     </a>
                 </li>
+
+                <li class="nav-item menu-items">
+                    <a class="nav-link" href="{{url('kartuantrian')}}">
+                        <span class="menu-icon">
+                            <i class="mdi mdi-file-document-box"></i>
+                        </span>
+                        <span class="menu-title">Antrian</span>
             </ul>
         </nav>

@@ -181,7 +181,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 py-3 wow fadeInUp">
                         <h1>Selamat Datang Dipusat Kesehatan Desa Lohbener<br></h1>
-                        <p class="text-grey mb-4">Website ini dbuat untuk mengenalkan Puskesmas Kecamatan Lohbener kepada masyarakat luas. Berisi berbagai macam informasi terkait baik pelayanan maupun kegiatan yang ada di Puskesmas Kecamatan Lohbener</p>
+                        <p class="text-grey mb-4">Website ini dibuat untuk mengenalkan Puskesmas Kecamatan Lohbener kepada masyarakat luas. Berisi berbagai macam informasi terkait baik pelayanan maupun kegiatan yang ada di Puskesmas Kecamatan Lohbener</p>
 
                         <p class="text-grey mb-4">Pengunjung website ini juga dapat menggunakan Tanya Dokter untuk mengetahui informasi terkait dengan penyakit, tindakan dan pengobatan tanpa perlu bertemu dokter secara langsung. Kami akan usahakan membalas pertanyaan anda secepat mungkin.</p>
 
