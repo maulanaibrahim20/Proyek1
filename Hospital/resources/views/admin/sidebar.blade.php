@@ -8,12 +8,12 @@
                     <div class="profile-desc">
                         <div class="profile-pic">
                             <div class="count-indicator">
-                                <img class="img-xs rounded-circle " src="assets/images/faces/face15.jpg" alt="">
+                                <img class="img-xs rounded-circle " src="assets/img/person/admin.jpg" alt="">
                                 <span class="count bg-success"></span>
                             </div>
                             <div class="profile-name">
-                                <h5 class="mb-0 font-weight-normal">Henry Klein</h5>
-                                <span>Gold Member</span>
+                                <h5 class="mb-0 font-weight-normal">Admin</h5>
+                                <!-- <span>Gold Member</span> -->
                             </div>
                         </div>
                         <a href="#" id="profile-dropdown" data-toggle="dropdown"><i class="mdi mdi-dots-vertical"></i></a>
@@ -54,7 +54,7 @@
                     </div>
                 </li>
                 <li class="nav-item nav-category">
-                    <span class="nav-link">Navigation</span>
+                    <span class="nav-link">Navigasi</span>
                 </li>
                 
                 <li class="nav-item menu-items">
@@ -62,7 +62,7 @@
                         <span class="menu-icon">
                             <i class="mdi mdi-file-document-box"></i>
                         </span>
-                        <span class="menu-title">Add Doctor</span>
+                        <span class="menu-title">Tambah Dokterr</span>
                     </a>
                 </li>
 
@@ -71,7 +71,7 @@
                         <span class="menu-icon">
                             <i class="mdi mdi-file-document-box"></i>
                         </span>
-                        <span class="menu-title">Appointments</span>
+                        <span class="menu-title">Tanya Dokter</span>
                     </a>
                 </li>
 
@@ -80,7 +80,7 @@
                         <span class="menu-icon">
                             <i class="mdi mdi-file-document-box"></i>
                         </span>
-                        <span class="menu-title">All Doctors</span>
+                        <span class="menu-title">Data Dokter</span>
                     </a>
                 </li>
 

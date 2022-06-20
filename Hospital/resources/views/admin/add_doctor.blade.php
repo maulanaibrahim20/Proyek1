@@ -55,21 +55,21 @@
 
 
                 <div style="padding:15px;">
-                    <label>Doctor Name</label>
-                    <input type="text" style="color:black;" name="name" placeholder="Write The name" required="">
+                    <label>Nama Dokter</label>
+                    <input type="text" style="color:black;" name="name" placeholder="Masukan Nama" required="">
                 </div>
 
                 <div style="padding:15px;">
-                    <label>Phone</label>
-                    <input type="number" style="color:black;" name="number" placeholder="Write The Phone Number" required="">
+                    <label>No. Telepon</label>
+                    <input type="number" style="color:black;" name="number" placeholder="Masukan No.Telepon" required="">
                 </div>
 
                 <div style="padding:15px;">
-                    <label>Specialty</label>
+                    <label>Spesialis</label>
                     <select name="specialty" style="color:black; width:200px;" required="">
-                        <option>--Select--</option>
-                        <option value="skin">Skin</option>
-                        <option value="heart">heart</option>
+                        <option>--Pilih--</option>
+                        <option value="skin">Umum</option>
+                        <option value="heart">Bidan</option>
                         <option value="eye">Eye</option>
                         <option value="nose">Nose</option>
 
@@ -77,12 +77,12 @@
                 </div>
 
                 <div style="padding:15px;">
-                    <label>Room No</label>
-                    <input type="text" style="color:black;" name="room" placeholder="Write The room number" required="">
+                    <label>Nomer Ruangan</label>
+                    <input type="text" style="color:black;" name="room" placeholder="Tulis Nomor Ruangan" required="">
                 </div>
 
                 <div style="padding:15px;">
-                    <label>Doctor Image</label>
+                    <label>Foto Dokter</label>
                     <input type="file" name="file" required="">
                 </div>
                 

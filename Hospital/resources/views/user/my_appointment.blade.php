@@ -52,7 +52,7 @@
 
         <nav class="navbar navbar-expand-lg navbar-light shadow-sm">
             <div class="container">
-                <a class="navbar-brand" href="#"><span class="text-primary">Puskesmas</span>-Lohbener</a>
+                <a class="navbar-brand" href="home"><span class="text-primary">Puskesmas</span>-Lohbener</a>
 
                 <form action="#">
                     <div class="input-group input-navbar">
@@ -89,7 +89,7 @@
                         @auth
 
                         <li class="nav-item">
-                            <a class="nav-link" style="background-color:greenyellow; color: white;" href="{{url('myappointment')}}">My Appointment</a>
+                            <a class="nav-link" style="background-color:greenyellow; color: white;" href="{{url('myappointment')}}">Tanya Dokter</a>
                         </li>
 
                         <x-app-layout>
@@ -131,12 +131,12 @@
 
         @foreach($appoint as $appoint)
         <tr style="background-color-color:black;" align="canter">
-            <td style="padding:10px; font-size: 20px; color:white;">{{$appoint->doctor}}</td>
-            <td style="padding:10px; font-size: 20px; color:white;">{{$appoint->date}}</td>
-            <td style="padding:10px; font-size: 20px; color:white;">{{$appoint->message}}</td>
-            <td style="padding:10px; font-size: 20px; color:white;">{{$appoint->status}}</td>
+            <td style="padding:10px; font-size: 20px; color:black;">{{$appoint->doctor}}</td>
+            <td style="padding:10px; font-size: 20px; color:black;">{{$appoint->date}}</td>
+            <td style="padding:10px; font-size: 20px; color:black;">{{$appoint->message}}</td>
+            <td style="padding:10px; font-size: 20px; color:black;">{{$appoint->status}}</td>
 
-            <td><a class="btn btn-danger" onclick="return confirm('are you sure to delet this appointment?')" href="{{url('cancel_appointment',$appoints->id)}}">cancel</a></td>
+            <td><a class="btn btn-danger" onclick="return confirm('are you sure to delet this appointment?')" href="{{url('cancel_appoint',$appoint->id)}}">cancel</a></td>
         </tr>        
 
         @endforeach

@@ -38,13 +38,13 @@
                             <a href="#"><span class="mai-mail text-primary"></span>email</a>
                         </div>
                     </div>
-                    <div class="col-sm-4 text-right text-sm">
+                    <!-- <div class="col-sm-4 text-right text-sm">
                         <div class="social-mini-button">
                             <a href="#"><span class="mai-logo-facebook-f"></span></a>
                             <a href="#"><span class="mai-logo-twitter"></span></a>
                             <a href="#"><span class="mai-logo-dribbble"></span></a>
                             <a href="#"><span class="mai-logo-instagram"></span></a>
-                        </div>
+                        </div> -->
                     </div>
                 </div> <!-- .row -->
             </div> <!-- .container -->
@@ -57,9 +57,7 @@
                 <form action="#">
                     <div class="input-group input-navbar">
                         <div class="input-group-prepend">
-                            <span class="input-group-text" id="icon-addon1"><span class="mai-search"></span></span>
                         </div>
-                        <input type="text" class="form-control" placeholder="Enter keyword.." aria-label="Username" aria-describedby="icon-addon1">
                     </div>
                 </form>
 
@@ -70,13 +68,13 @@
                 <div class="collapse navbar-collapse" id="navbarSupport">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="index.html">Home</a>
+                            <a class="nav-link" href="dashboard.blade.php">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="about.html">About Us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="doctors.html">Doctors</a>
+                            <a class="nav-link" href="doctor.blade.php">Doctors</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="blog.html">News</a>
@@ -89,7 +87,7 @@
                         @auth
 
                         <li class="nav-item">
-                            <a class="nav-link" style="background-color:greenyellow; color: white;" href="{{url('myappointment')}}">My Appointment</a>
+                            <a class="nav-link" style="background-color:white; color: black;" href="{{url('myappointment')}}">Tanya Dokter</a>
                         </li>
 
                         <x-app-layout>
@@ -207,12 +205,12 @@
         <div class="container py-5 py-lg-0">
             <div class="row align-items-center">
                 <div class="col-lg-4 wow zoomIn">
-                    <div class="img-banner d-none d-lg-block">
-                        <img src="../assets/img/mobile_app.png" alt="">
+                    <div class="img-banner d-none d-lg- block">
+                        <img src="../assets/img/mobile1.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-8 wow fadeInRight">
-                    <h1 class="font-weight-normal mb-3">Get easy access of all features using One Health Application</h1>
+                    <h1 class="font-weight-normal mb-3">Dapatkan akses mudah ke semua fitur menggunakan Aplikasi Puskesmas Lohbener</h1>
                     <a href="#"><img src="../assets/img/google_play.svg" alt=""></a>
                     <a href="#" class="ml-2"><img src="../assets/img/app_store.svg" alt=""></a>
                 </div>

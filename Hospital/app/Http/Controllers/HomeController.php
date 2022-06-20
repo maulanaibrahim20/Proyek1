@@ -79,7 +79,7 @@ class HomeController extends Controller
 
         $data->save();
 
-        return redirect()->back()->with('message','Appointment Request Succesfull. We Will Contact With you soon :)');
+        return redirect()->back()->with('message','Tanya Dokter Berhasil Dikirim. Kita Akan Mengabari Secepatnya! :)');
     }
 
         public function myappointment()

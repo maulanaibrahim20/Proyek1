@@ -18,15 +18,15 @@
 
             <table>
                 <tr style="background-color:black;">
-                    <th style="padding:10px">Customer Name</th>
+                    <th style="padding:10px">Nama Pasien</th>
                     <th style="padding:10px">Email</th>
-                    <th style="padding:10px">Phone</th>
-                    <th style="padding:10px">Doctor Name</th>
-                    <th style="padding:10px">Date</th>
-                    <th style="padding:10px">Message</th>
+                    <th style="padding:10px">No.Telepon</th>
+                    <th style="padding:10px">Nama Dokter</th>
+                    <th style="padding:10px">Tanggal</th>
+                    <th style="padding:10px">Pesan</th>
                     <th style="padding:10px">Status</th>
-                    <th style="padding:10px">Approved</th>
-                    <th style="padding:10px">Canceled</th>
+                    <th style="padding:10px">Diterima</th>
+                    <th style="padding:10px">Ditolak</th>
                     </tr>
 
                 @foreach($data as $appoint)
@@ -39,11 +39,11 @@
                 <td>{{$appoint->message}}</td>
                 <td>{{$appoint->status}}</td>
                 <td>
-                    <a class="btn btn-success" href="{{url('approved', $appoint->id)}}">Approved</a>
+                    <a class="btn btn-success" href="{{url('approved', $appoint->id)}}">TERIMA!</a>
                 </td>
                 
                 <td>
-                    <a class="btn btn-danger" href="{{url('canceled',$appoint->id)}}">Canceled</a>
+                    <a class="btn btn-danger" href="{{url('canceled',$appoint->id)}}">TOLAK!</a>
                     
                 </td>
                 </tr>

@@ -17,13 +17,13 @@
         <div align="center" style="padding-top:100px";>
         <table>
                 <tr style="background-color:black;">
-                    <th style="padding:10px">Doctor Name</th>
-                    <th style="padding:10px">Phone</th>
-                    <th style="padding:10px">Specialty</th>
-                    <th style="padding:10px">Room No</th>
-                    <th style="padding:10px">Images</th>
-                    <th style="padding:10px">Delete</th>
-                    <th style="padding:10px">Update</th>
+                    <th style="padding:10px">Nama Dokter</th>
+                    <th style="padding:10px">No.Telepon</th>
+                    <th style="padding:10px">Spesialis</th>
+                    <th style="padding:10px">Nomer Ruangan</th>
+                    <th style="padding:10px">Gambar</th>
+                    <th style="padding:10px">Hapus</th>
+                    <th style="padding:10px">Ubah</th>
                     
                 
                 </tr>
