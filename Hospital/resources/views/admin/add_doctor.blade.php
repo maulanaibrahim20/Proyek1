@@ -70,8 +70,8 @@
                         <option>--Pilih--</option>
                         <option value="skin">Umum</option>
                         <option value="heart">Bidan</option>
-                        <option value="eye">Eye</option>
-                        <option value="nose">Nose</option>
+                        <option value="eye">Spesialis Mata</option>
+                        <option value="nose">Spesialis Hidung</option>
 
                     </select>
                 </div>

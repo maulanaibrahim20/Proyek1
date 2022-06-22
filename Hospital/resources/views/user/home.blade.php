@@ -35,7 +35,7 @@
                         <div class="site-info">
                             <a href="#"><span class="mai-call text-primary"></span>0812-8643-8884</a>
                             <span class="divider">|</span>
-                            <a href="#"><span class="mai-mail text-primary"></span>email</a>
+                            <a href="#"><span class="mai-mail text-primary"></span>puskesmaslohbener@gmail.com</a>
                         </div>
                     </div>
                     <!-- <div class="col-sm-4 text-right text-sm">
@@ -68,7 +68,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupport">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="dashboard.blade.php">Home</a>
+                            <a class="nav-link" href="home">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="about.html">About Us</a>
@@ -151,7 +151,7 @@
                             <div class="circle-shape bg-secondary text-white">
                                 <span class="mai-chatbubbles-outline"></span>
                             </div>
-                            <p><span>Chat</span> with a doctors</p>
+                            <p><span>Tanya</span> Dengan Dokter</p>
                         </div>
                     </div>
                     <div class="col-md-4 py-3 py-md-0">
@@ -159,7 +159,7 @@
                             <div class="circle-shape bg-primary text-white">
                                 <span class="mai-shield-checkmark"></span>
                             </div>
-                            <p><span>One</span>-Health Protection</p>
+                            <p><span></span>Pusat Kesehatan</p>
                         </div>
                     </div>
                     <div class="col-md-4 py-3 py-md-0">
@@ -167,7 +167,7 @@
                             <div class="circle-shape bg-accent text-white">
                                 <span class="mai-basket"></span>
                             </div>
-                            <p><span>One</span>-Health Pharmacy</p>
+                            <p><span></span>Farmasi</p>
                         </div>
                     </div>
                 </div>
@@ -254,7 +254,7 @@
 
             <hr>
 
-            <p id="copyright">Copyright &copy; 2020 <a href="https://macodeid.com/" target="_blank">MACode ID</a>. All right reserved</p>
+            <p id="copyright">Copyright &copy; 2022 <a href="https://macodeid.com/" target="_blank">Proyek1 Rpl 2</a>. since2022</p>
         </div>
     </footer>
 
